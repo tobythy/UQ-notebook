@@ -5,13 +5,7 @@ Discrete Mathematics
 # The Logic of Compound Statement
 
 ## Logical Equivalences
-⊕
-⊕
- 	\oplus	∨
-∨
-\vee	∧
-∧
-\wedge
+
 
 |  |  |  |
 | --- | --- | --- |
