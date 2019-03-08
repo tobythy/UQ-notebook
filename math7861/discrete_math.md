@@ -5,6 +5,10 @@ Discrete Mathematics
 # The Logic of Compound Statement
 
 ## Logical Equivalences
+<<<<<<< HEAD
+=======
+
+>>>>>>> 48cb44ff484ed36f02bb892a780d15291537c168
 
 |  |  |  |
 | --- | --- | --- |
